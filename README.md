@@ -1,3 +1,9 @@
 # SQL Basics
 
-Basic syntax, aggregate functions, inner joins, case/when/then, using, into
+* Basic syntax
+* Creating databases 
+* Creating tables
+* Aggregate functions
+* Inner joins
+* case/when/then
+* using, into

@@ -5,5 +5,6 @@
 * Creating tables
 * Aggregate functions
 * Inner joins
+* Outer joins
 * case/when/then
 * using, into
